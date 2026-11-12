@@ -1,6 +1,6 @@
 # Übung 3 · Eigenen Slash Command bauen
 
-**Zeit:** 45 Minuten · **Form:** allein oder zu zweit, wie Sie möchten
+**Zeit:** 45 Minuten
 
 ## Ziel
 

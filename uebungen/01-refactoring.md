@@ -1,6 +1,6 @@
 # Übung 1 · Refactoring mit KI führen
 
-**Zeit:** 60 Minuten (50 arbeiten, 10 auswerten) · **Form:** allein oder zu zweit, wie Sie möchten
+**Zeit:** 60 Minuten (50 arbeiten, 10 auswerten)
 
 ## Ziel
 
@@ -11,13 +11,13 @@ Alternativ in TypeScript: `ts/src/pricing.ts`, Funktion `calc`.
 
 ## Ablauf
 
-1. **Prompt schreiben** mit Rolle, Ziel, Kontext, Grenzen und Fertig-Kriterium.
-   Vorlage auf der Folie „Vorher und nachher“.
+1. **Prompt schreiben** mit Ziel, Kontext, Grenzen, Vorgehen und Fertig-Kriterium.
+   Vorlage auf der Folie „Derselbe Auftrag, zweimal formuliert“.
 2. **Erst einen Plan erstellen lassen**, noch keinen Code. Plan prüfen und
    bei Bedarf korrigieren.
 3. **Schritt für Schritt umsetzen lassen**, ein Schritt pro Auftrag.
 4. **Nach jedem Schritt testen:** `dotnet test` bzw. `npm test`.
-5. **Vergleichen:** Wie ist Ihr Nachbar vorgegangen?
+5. **Vergleichen:** Zwei, drei Ergebnisse werden in der Runde gezeigt. Wie sind die anderen vorgegangen?
 
 ## Fertig, wenn
 

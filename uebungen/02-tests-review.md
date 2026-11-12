@@ -1,6 +1,6 @@
 # Übung 2 · Tests und Pull-Request-Review
 
-**Zeit:** 45 Minuten · **Form:** allein oder zu zweit, wie Sie möchten
+**Zeit:** 45 Minuten
 
 ## Teil A · Tests (ca. 20 Minuten)
 
