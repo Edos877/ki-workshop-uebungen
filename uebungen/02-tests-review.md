@@ -29,6 +29,14 @@ git diff main...origin/feature/treuebonus
 3. Prüfen Sie auch die PR-Beschreibung: Stimmt sie mit dem Code überein?
 4. Gleichen Sie Ihre Liste am Ende mit der Lösung ab.
 
+## Für Schnelle
+
+- **Plus:** Lassen Sie dieselbe Änderung von einem zweiten Modell reviewen,
+  zum Beispiel Sonnet auf höchster Stufe, und vergleichen Sie beide Listen.
+- **Profi:** Geben Sie die Hinweise an eine neue Sitzung mit dem Auftrag:
+  *„Versuche jeden Hinweis mit dem Code zu widerlegen. Bestätige nur, was du
+  belegen kannst.“* Was bleibt übrig?
+
 ## Zum Nachdenken
 
 - Was hat die KI gefunden, was übersehen?

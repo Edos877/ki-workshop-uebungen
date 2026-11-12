@@ -31,6 +31,11 @@ Alternativ in TypeScript: `ts/src/pricing.ts`, Funktion `calc`.
 - Hat sie versucht, Tests zu ändern?
 - Wie groß waren die einzelnen Schritte?
 
-## Zusatzaufgabe
+## Für Schnelle
 
-Ergänzen Sie in `CLAUDE.md` (oder `.github/copilot-instructions.md`) eine fehlende Projektregel, zum Beispiel „Keine neuen Pakete ohne Rückfrage“ oder eine Namenskonvention. Führen Sie denselben Auftrag erneut aus und vergleichen Sie das Ergebnis.
+**Plus:** Ergänzen Sie in `CLAUDE.md` (oder `.github/copilot-instructions.md`) eine fehlende Projektregel, zum Beispiel eine Namenskonvention oder eine Regel zur Fehlerbehandlung. Führen Sie denselben Auftrag erneut aus und vergleichen Sie das Ergebnis.
+
+**Profi:** Starten Sie neu und lassen Sie die KI vor dem Plan zuerst
+Rückfragen stellen: *„Stell mir alle Fragen, die du für ein sicheres
+Refactoring brauchst. Fang erst danach an.“* Welche Annahmen hätte sie
+sonst stillschweigend getroffen?

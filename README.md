@@ -42,7 +42,9 @@ Wenn beide Testläufe grün sind, ist alles bereit.
 
 1. [Refactoring mit KI führen](uebungen/01-refactoring.md)
 2. [Tests und Pull-Request-Review](uebungen/02-tests-review.md)
-3. [Eigenen Slash Command bauen](uebungen/03-slash-command.md)
+3. [Eigenen Slash Command bauen](uebungen/03-slash-command.md), mit Stufe Profi: [Expressversand mit Agenten-Ablauf](uebungen/03-profi-expressversand.md)
+
+Jede Übung hat Zusatzstufen für alle, die schneller fertig sind.
 
 Arbeiten Sie bitte auf einem eigenen Branch, zum Beispiel `team-1`.
 
