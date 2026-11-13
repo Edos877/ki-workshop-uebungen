@@ -33,7 +33,8 @@ Wenn beide Testläufe grün sind, ist alles bereit.
 | `src/Bestellservice` | C#-Code: Bestellverarbeitung, Rabattberechnung |
 | `tests/Bestellservice.Tests` | xUnit-Tests |
 | `ts/` | TypeScript-Variante der Preisberechnung (Vitest) |
-| `uebungen/` | Aufgabenblätter der drei Übungen, Antworten des Fachbereichs für Übung 3 |
+| `uebungen/` | Aufgabenblätter der drei Übungen, Antworten des Fachbereichs für Übung 3, Bonus |
+| `bonus/` | Eigenes kleines Projekt für die Bonus-Aufgabe (eigene Tests, eigene Daten) |
 | `material/` | Checkliste für KI-generierten Code, Team-Regeln |
 | `CLAUDE.md`, `.github/copilot-instructions.md` | Projektregeln für die KI |
 | `.claude/commands/`, `.github/prompts/` | Beispiel für einen eigenen Command |
@@ -44,7 +45,8 @@ Wenn beide Testläufe grün sind, ist alles bereit.
 2. [Tests und Pull-Request-Review](uebungen/02-tests-review.md)
 3. [Eine Funktion mit Agenten umsetzen](uebungen/03-agenten-ablauf.md), alternativ: [Eigenen Command bauen](uebungen/03-eigener-command.md)
 
-Jede Übung hat Zusatzstufen für alle, die schneller fertig sind.
+Jede Übung hat Zusatzstufen für alle, die schneller fertig sind. Für besonders
+Schnelle gibt es eine harte Zusatzaufgabe: [Bonus · Reif für die Freigabe?](uebungen/04-bonus-freigabe.md).
 
 Arbeiten Sie bitte auf einem eigenen Branch, zum Beispiel mit Ihrem Kürzel.
 

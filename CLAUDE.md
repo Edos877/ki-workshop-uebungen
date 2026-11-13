@@ -9,6 +9,7 @@ Fiktiver Bestellservice für einen KI-Workshop. Kein Produktivcode.
 ## Befehle
 - C#-Tests: `dotnet test`
 - TypeScript-Tests: `cd ts && npm test`
+- Bonus-Aufgabe: `cd bonus && dotnet test`
 
 ## Arbeitsweise
 - Vor größeren Änderungen erst einen Plan vorschlagen und auf Freigabe warten.
