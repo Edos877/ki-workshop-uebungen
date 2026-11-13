@@ -1,10 +1,10 @@
-# Übung 3 · Alternative: Eigenen Command bauen
+# Übung 3 · Danach oder stattdessen: Eigenen Command bauen
 
 **Zeit:** 70 Minuten (55 entwickeln, 15 vorstellen)
 
 Der Hauptweg dieser Übung ist [`03-agenten-ablauf.md`](03-agenten-ablauf.md).
-Diese Alternative ist für alle, die lieber einen wiederverwendbaren Auftrag
-für ihr Team bauen.
+Dieses Blatt ist für alle, die damit fertig sind oder lieber gleich einen
+wiederverwendbaren Auftrag für ihr Team bauen.
 
 ## Ziel
 

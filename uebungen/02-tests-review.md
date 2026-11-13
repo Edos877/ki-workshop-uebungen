@@ -2,6 +2,9 @@
 
 **Zeit:** 45 Minuten
 
+Auch hier arbeitet die KI, Sie führen und beurteilen. Bleiben Sie auf Ihrem
+Branch aus Übung 1.
+
 ## Teil A · Tests (ca. 20 Minuten)
 
 `DiscountCalculator` in `src/Bestellservice/DiscountCalculator.cs` hat noch

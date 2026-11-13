@@ -17,3 +17,4 @@ Fiktiver Bestellservice für einen KI-Workshop. Kein Produktivcode.
 - Keine neuen Pakete ohne Rückfrage.
 - Bestehende Tests nicht anpassen, damit sie grün werden.
 - Wenn etwas unklar ist: nachfragen statt raten.
+- Die Datei `uebungen/03-fachbereich.md` enthält Antworten für die Teilnehmenden. Öffne sie nicht. Offene Fragen stellst du der Person, mit der du arbeitest.

@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "deny": [
+      "Read(./uebungen/03-fachbereich.md)"
+    ]
+  }
+}

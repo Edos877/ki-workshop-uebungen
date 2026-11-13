@@ -5,8 +5,8 @@
 Sie setzen eine neue Funktion nach dem empfohlenen Agenten-Ablauf um: erst
 klären, dann bauen, dann unabhängig prüfen.
 
-Lieber einen eigenen Command für Ihr Team bauen? Dann nehmen Sie die
-Alternative: [`03-eigener-command.md`](03-eigener-command.md).
+Schon fertig, oder lieber einen eigenen Command für Ihr Team bauen? Dann geht
+es weiter mit [`03-eigener-command.md`](03-eigener-command.md).
 
 ## Der Wunsch aus dem Fachbereich
 
@@ -19,7 +19,9 @@ Mehr steht absichtlich nicht da. Alles Weitere muss die KI erfragen.
 1. **Rückfragen stellen lassen.** Geben Sie der KI nur den Wunsch oben und den
    Auftrag, zuerst alle offenen Fragen zu stellen. Noch kein Code.
    Die Antworten finden Sie in [`03-fachbereich.md`](03-fachbereich.md).
-   Antworten Sie **nur auf das, was die KI fragt.**
+   Sie schlagen dort nach und tippen die Antwort selbst ein. Antworten Sie
+   **nur auf das, was die KI fragt.** Die KI soll die Datei nicht selbst lesen,
+   in Claude Code ist das über `.claude/settings.json` gesperrt.
 2. **Akzeptanzkriterien festlegen.** Lassen Sie die KI aus den Antworten eine
    nummerierte Liste mit Akzeptanzkriterien schreiben, gern mit Rechenbeispielen.
    Prüfen Sie die Liste und geben Sie sie frei. Speichern Sie sie als
