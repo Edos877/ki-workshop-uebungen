@@ -1,6 +1,6 @@
 # Übung 1 · Refactoring mit KI führen
 
-**Zeit:** 60 Minuten (50 arbeiten, 10 auswerten)
+**Zeit:** 35 Minuten (25 arbeiten, 10 auswerten)
 
 ## Ziel
 
@@ -32,6 +32,8 @@ Alternativ in TypeScript: `ts/src/pricing.ts`, Funktion `calc`.
 - Wie groß waren die einzelnen Schritte?
 
 ## Für Schnelle
+
+Schon nach zehn Minuten fertig? Dann gehen Sie direkt zur Stufe Profi.
 
 **Plus:** Ergänzen Sie in `CLAUDE.md` (oder `.github/copilot-instructions.md`) eine fehlende Projektregel, zum Beispiel eine Namenskonvention oder eine Regel zur Fehlerbehandlung. Führen Sie denselben Auftrag erneut aus und vergleichen Sie das Ergebnis.
 

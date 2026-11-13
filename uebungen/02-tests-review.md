@@ -27,7 +27,8 @@ git diff main...origin/feature/treuebonus
    Claude Code oder im Copilot-Chat.
 2. Bewerten Sie jeden Hinweis: **richtig**, **falsch** oder **unbelegt**?
 3. Prüfen Sie auch die PR-Beschreibung: Stimmt sie mit dem Code überein?
-4. Gleichen Sie Ihre Liste am Ende mit der Lösung ab.
+4. Am Ende zeigen wir die Lösung gemeinsam am Beamer. Gleichen Sie Ihre Liste
+   damit ab.
 
 ## Für Schnelle
 

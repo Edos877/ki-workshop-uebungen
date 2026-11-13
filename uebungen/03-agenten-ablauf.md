@@ -1,8 +1,12 @@
-# Übung 3 · Stufe Profi: Expressversand mit Agenten-Ablauf
+# Übung 3 · Eine Funktion mit Agenten umsetzen
 
-**Für alle, die mit Basis und Plus schnell fertig sind.** Sie setzen eine neue
-Funktion nach dem empfohlenen Agenten-Ablauf um: erst klären, dann bauen, dann
-unabhängig prüfen.
+**Zeit:** 70 Minuten (55 umsetzen, 15 vorstellen)
+
+Sie setzen eine neue Funktion nach dem empfohlenen Agenten-Ablauf um: erst
+klären, dann bauen, dann unabhängig prüfen.
+
+Lieber einen eigenen Command für Ihr Team bauen? Dann nehmen Sie die
+Alternative: [`03-eigener-command.md`](03-eigener-command.md).
 
 ## Der Wunsch aus dem Fachbereich
 
@@ -14,14 +18,15 @@ Mehr steht absichtlich nicht da. Alles Weitere muss die KI erfragen.
 
 1. **Rückfragen stellen lassen.** Geben Sie der KI nur den Wunsch oben und den
    Auftrag, zuerst alle offenen Fragen zu stellen. Noch kein Code.
-   Die Antworten finden Sie in [`03-profi-fachbereich.md`](03-profi-fachbereich.md).
+   Die Antworten finden Sie in [`03-fachbereich.md`](03-fachbereich.md).
    Antworten Sie **nur auf das, was die KI fragt.**
 2. **Akzeptanzkriterien festlegen.** Lassen Sie die KI aus den Antworten eine
    nummerierte Liste mit Akzeptanzkriterien schreiben, gern mit Rechenbeispielen.
    Prüfen Sie die Liste und geben Sie sie frei. Speichern Sie sie als
    `uebungen/expressversand-kriterien.md`.
 3. **Plan erstellen lassen.** Kleine Schritte, je Schritt ein Test.
-4. **Umsetzen lassen.** Nach jedem Schritt `dotnet test`.
+4. **Umsetzen lassen.** Nach jedem Schritt `dotnet test`. Die bestehenden
+   Tests bleiben unverändert.
 5. **Unabhängig prüfen lassen.** Eine neue Sitzung oder ein Subagent, am besten
    mit einem anderen Modell, prüft den Diff gegen jedes Kriterium:
    *„Prüfe diese Änderung gegen expressversand-kriterien.md. Baue nichts.
@@ -49,3 +54,15 @@ Mehr steht absichtlich nicht da. Alles Weitere muss die KI erfragen.
   `/model` für Schritt 5
 - **GitHub Copilot:** Agent-Modus, für Schritt 5 einen neuen Chat mit einem
   anderen Modell öffnen
+
+## Für Schnelle
+
+- **Plus:** Bauen Sie aus Ihrem Vorgehen einen Command `/akzeptanzkriterien`,
+  der zuerst Rückfragen stellt und dann Kriterien vorschlägt.
+- **Profi:** Lassen Sie zwei verschiedene Modelle unabhängig prüfen und
+  vergleichen Sie die Ergebnisse. Was findet nur eines von beiden?
+
+## TypeScript-Variante
+
+Dieselben Regeln in `ts/src/pricing.ts`, ohne die Bestätigungsmail. Tests mit
+`npm test`.
